@@ -8,24 +8,23 @@
 	overflow : hidden; /*内容超出容器大小时，滚动条展示超出部分，hidden隐藏超出部分*/
 }
 .title{
-		background-color: #9356C0;
-		color:#FFFFFF;
-		width: 100px;
-		height: 40px;
-		font-size: 24px;
-		font-family: 'Microsoft YaHei'; 
-		text-align: center;
-		line-height: 40px; /*行高设置为容器大小，字体会垂直居中*/
-		margin: 10px 10px;
-		overflow: hidden;
-		border:solid;
-		border-width:1px;
-		border-color: #9356C0;
-		display:inline-block; /*使width生效*/
-		
-	}
+	background-color: #9356C0;
+	color:#FFFFFF;
+	width: 100px;
+	height: 40px;
+	font-size: 24px;
+	font-family: 'Microsoft YaHei'; 
+	text-align: center;
+	line-height: 40px; /*行高设置为容器大小，字体会垂直居中*/
+	margin: 10px 10px;
+	overflow: hidden;
+	border:solid;
+	border-width:1px;
+	border-color: #9356C0;
+	display:inline-block; /*使width生效*/
+}
 .title:hover{
-		background-color:6106B7;
-	}
+	background-color:6106B7;
+}
 
 
